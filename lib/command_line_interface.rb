@@ -1,5 +1,6 @@
 def welcome
   # puts out a welcome message here!
+  puts "Welcome, wonderful Star Wars fanatic."
 end
 
 def get_character_from_user
