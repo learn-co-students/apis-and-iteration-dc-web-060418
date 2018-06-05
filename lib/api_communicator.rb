@@ -1,3 +1,6 @@
+# --------Code by: AugustGiles, Essaahijazi, Wley3337---------
+
+
 require 'rest-client'
 require 'json'
 require 'pry'

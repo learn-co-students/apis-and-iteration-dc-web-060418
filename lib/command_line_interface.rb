@@ -1,3 +1,6 @@
+# --------Code by: AugustGiles, Essaahijazi, Wley3337---------
+
+
 load "./api_communicator.rb"
 
 def welcome
